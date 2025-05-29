@@ -24,7 +24,7 @@ How to Run
 3. Open a terminal in the folder and run:
 
 ```
-python test_calculator.py
+python calculator_test.py
 ```
 
 ---
